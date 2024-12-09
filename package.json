@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "allure-cypress": "^3.0.7",
+    "cypress": "^13.16.1",
+    "allure-commandline": "^2.14.0"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run:docker": "cypress run -b chromium",
+    "allure:serve": "allure serve allure-results -p 4040"
+  }
+}

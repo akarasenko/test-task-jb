@@ -1,0 +1,20 @@
+{
+  "organizations_monthly_ultimate": {
+    "priceEuro": "€59",
+    "priceCents": "90",
+    "VATPrice": "€71.28",
+    "priceWithAIEuro": "€79",
+    "priceWithAIVents": "90",
+    "VATPriceWithAI": "€95.08",
+    "AIPrice": "€23.80"
+  },
+  "individual_monthly_ultimate": {
+    "priceEuro": "16",
+    "priceCents": "90",
+    "VATPrice": "€20.11",
+    "priceWithAIEuro": "€26",
+    "priceWithAIVents": "90",
+    "VATPriceWithAI": "€32.01",
+    "AIPrice": "€11.90"
+  }
+}

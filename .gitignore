@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+cypress/reports/
+cypress/logs/
+
+# Allure Reports
+allure-results/
+allure-report/
